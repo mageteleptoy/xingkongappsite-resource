@@ -1,2 +1,12 @@
 # xingkongappsite-resource
-HTML page archive and documentation
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
